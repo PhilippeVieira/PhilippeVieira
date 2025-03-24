@@ -95,7 +95,7 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 &nbsp;
 <code><a href="https://miro.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/miro.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://lucid.co/pt" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/lucidchart.png?raw=true"/></a></code>
+<code><a href="https://www.lucidchart.com/pages/pt" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/lucidchart.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.overleaf.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/overleaf.png?raw=true"/></a></code>
 &nbsp;
