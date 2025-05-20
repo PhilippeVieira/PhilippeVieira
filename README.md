@@ -54,53 +54,53 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img title="Java" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/html.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img title="HTML" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/html.svg?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/css.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img title="CSS" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/css.svg?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/javascript.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img title="JavaScript" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/javascript.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://flutter.dev" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/flutter.png?raw=true"/></a></code>
+<code><a href="https://flutter.dev" target="_blank"><img title="Flutter" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/flutter.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/spring.png?raw=true"/></a></code>
+<code><a href="https://spring.io/" target="_blank"><img title="Spring Boot" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/spring.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/c.png?raw=true"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img title="C" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/cpp.svg?raw=true"/></a></code>
+<code><a href="https://isocpp.org/" target="_blank"><img title="C++" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/cpp.svg?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/python.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img title="Python" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/intellij.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img title="IntelliJ IDAE" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/vsc.png?raw=true"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img title="VS Code" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/vsc.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/eclipse.png?raw=true"/></a></code>
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img title="Eclipse IDEA" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/postman.png?raw=true"/></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img title="Postman" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/postman.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/insomnia.png?raw=true"/></a></code>
+<code><a href="https://insomnia.rest/" target="_blank"><img title="Insomnia" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/insomnia.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/docker.png?raw=true"/></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img title="Docker" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/docker.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/postgresql.png?raw=true"/></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img title="PostgreSQL" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/postgresql.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/mysql.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img title="MySQL" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/aws.png?raw=true"/></a></code>
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img title="AWS" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/aws.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/git.png?raw=true"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img title="GIT" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/git.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.ibm.com/br-pt/products/robotic-process-automation" target="_blank"><img height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/IBMRPA.png?raw=true"/></a></code>
+<code><a href="https://www.ibm.com/br-pt/products/robotic-process-automation" target="_blank"><img title="IBM RPA" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/IBMRPA.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.notion.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/notion.png?raw=true"/></a></code>
+<code><a href="https://www.notion.com" target="_blank"><img title="Notion" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/notion.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.drawio.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/draw.io.png?raw=true"/></a></code>
+<code><a href="https://www.drawio.com" target="_blank"><img title="Draw IO" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/draw.io.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://miro.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/miro.png?raw=true"/></a></code>
+<code><a href="https://miro.com/pt/" target="_blank"><img title="Miro" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/miro.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.lucidchart.com/pages/pt" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/lucidchart.png?raw=true"/></a></code>
+<code><a href="https://www.lucidchart.com/pages/pt" target="_blank"><img title="LucidChart" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/lucidchart.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.overleaf.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/overleaf.png?raw=true"/></a></code>
+<code><a href="https://www.overleaf.com" target="_blank"><img title="Overleaf" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/overleaf.png?raw=true"/></a></code>
 &nbsp;
 </div>
 
