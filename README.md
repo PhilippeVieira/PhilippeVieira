@@ -102,7 +102,8 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/handshake2.gif?raw=true"/>&nbsp;Empresas onde trabalhei:
+<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/handshake2.gif?raw=true"/>
+&nbsp;Empresas onde trabalhei:
 <div align="center">
 <table>
 <tr>
