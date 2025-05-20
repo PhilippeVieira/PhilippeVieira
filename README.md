@@ -52,7 +52,7 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 <div>
 <img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/java.png?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img title="Java" width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/html.svg?raw=true"/></a></code>
 &nbsp;
@@ -94,19 +94,19 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 &nbsp;
 <code><a href="https://www.notion.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/notion.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.drawio.com" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/PhilippeVieira/PhilippeVieira/refs/heads/main/img/draw.io.png"/></a></code>
+<code><a href="https://www.drawio.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/draw.io.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://miro.com/pt/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/PhilippeVieira/PhilippeVieira/refs/heads/main/img/miro.png"/></a></code>
+<code><a href="https://miro.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/miro.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://www.lucidchart.com/pages/pt" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/lucidchart.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.overleaf.com" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/PhilippeVieira/PhilippeVieira/refs/heads/main/img/overleaf.png"/></a></code>
+<code><a href="https://www.overleaf.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/overleaf.png?raw=true"/></a></code>
 &nbsp;
 </div>
 
 -----
 
-<img height="20" alt="GIF" src="https://raw.githubusercontent.com/PhilippeVieira/PhilippeVieira/refs/heads/main/img/handshake2.gif"/>
+<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/handshake2.gif?raw=true"/>
 &nbsp;Empresas onde trabalhei:
 <div align="center">
 <table>
