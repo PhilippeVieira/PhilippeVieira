@@ -38,7 +38,8 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/soulgem.gif?raw=true"/>Sobre mim: <br>
+<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/soulgem.gif?raw=true"/>
+Sobre mim: <br>
 
 Já cursei Engenharia de Computação na Puc Minas. Fiz 7 períodos (2016-2019), porem não me formei. <br>
 Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias para me formar.
@@ -93,19 +94,20 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 &nbsp;
 <code><a href="https://www.notion.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/notion.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.drawio.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/draw.io.png?raw=true"/></a></code>
+<code><a href="https://www.drawio.com" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/PhilippeVieira/PhilippeVieira/refs/heads/main/img/draw.io.png"/></a></code>
 &nbsp;
-<code><a href="https://miro.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/miro.png?raw=true"/></a></code>
+<code><a href="https://miro.com/pt/" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/PhilippeVieira/PhilippeVieira/refs/heads/main/img/miro.png"/></a></code>
 &nbsp;
 <code><a href="https://www.lucidchart.com/pages/pt" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/lucidchart.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.overleaf.com" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/overleaf.png?raw=true"/></a></code>
+<code><a href="https://www.overleaf.com" target="_blank"><img width="32" height="32" src="https://raw.githubusercontent.com/PhilippeVieira/PhilippeVieira/refs/heads/main/img/overleaf.png"/></a></code>
 &nbsp;
 </div>
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/handshake2.gif?raw=true"/>&nbsp;Empresas onde trabalhei:
+<img height="20" alt="GIF" src="https://raw.githubusercontent.com/PhilippeVieira/PhilippeVieira/refs/heads/main/img/handshake2.gif"/>
+&nbsp;Empresas onde trabalhei:
 <div align="center">
 <table>
 <tr>
@@ -130,7 +132,7 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 
 <div>
  <img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
- 
+
  <div align="center">
  <table>
  <tr>
