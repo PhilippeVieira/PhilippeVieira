@@ -59,7 +59,7 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 &nbsp;
 <code><a href="https://www.w3schools.com/js/" title="JavaScript" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/javascript.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://flutter.dev" title="Flutter" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/flutter.png?raw=true"/></a></code>
+<code><a href="https://flutter.dev" title="Flutter" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/flutter.png"/></a></code>
 &nbsp;
 <code><a href="https://spring.io/" title="Spring Boot" target="_blank"><img width="32" height="32" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/spring.png?raw=true"/></a></code>
 &nbsp;
