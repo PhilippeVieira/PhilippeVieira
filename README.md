@@ -166,7 +166,7 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 </tr>
 <tr>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=philippevieira&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=philippevieira&theme=github_dark&utcOffset=-3"/>
 </td>
 <td>
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=philippevieira&theme=github_dark"/>
