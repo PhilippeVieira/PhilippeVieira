@@ -38,8 +38,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/soulgem.gif?raw=true"/>
-Sobre mim: <br>
+<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/soulgem.gif?raw=true"/>Sobre mim: <br>
 
 Já cursei Engenharia de Computação na Puc Minas. Fiz 7 períodos (2016-2019), porem não me formei. <br>
 Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias para me formar.
@@ -106,8 +105,7 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/handshake2.gif?raw=true"/>
-&nbsp;Empresas onde trabalhei:
+<img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/handshake2.gif?raw=true"/>&nbsp;Empresas onde trabalhei:
 <div align="center">
 <table>
 <tr>
@@ -132,7 +130,7 @@ Entrei no curso de Engenharia de Software (em 2021) e faltam poucas matérias pa
 
 <div>
  <img height="20" alt="GIF" src="https://github.com/PhilippeVieira/PhilippeVieira/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-
+ 
  <div align="center">
  <table>
  <tr>
